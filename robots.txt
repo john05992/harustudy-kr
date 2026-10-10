@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://harustudy.kr/sitemap.xml
+User-agent: Yeti
+Allow: /
+
+Sitemap: https://harustudy.kr/sitemapx.xml
